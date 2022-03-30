@@ -1,6 +1,11 @@
 # php_mysql_flutter
 
-A new Flutter project.
+mysql insert & select simple example
+
+1) create database(nft, user table)
+2) create php source code(select.php & write.php)
+3) main_mysql_insert.dart to insert
+4) main_mysql_select.dart to select
 
 ## Getting Started
 
